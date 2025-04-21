@@ -2,4 +2,6 @@
 - the following video gives you more information
 (https://www.youtube.com/watch?v=kocx9DlghoM&t)
 - The author is iterested in to discuss this topic with other interested peoples
-![Comparision picture](https://github.com/username/PID-AI-Controller/raw/main/comparision.jpg)
+
+- 
+![Comparision picture](https://github.com/wittgrocket/PID-AI-Controller/blob/main/comparision.jpg)
